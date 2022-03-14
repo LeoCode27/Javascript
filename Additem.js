@@ -12,7 +12,7 @@ var country=['australia','canada','japan','USA','NZD'];
 var add= country.push('UK');
 console.log(country);
 /*
-print all elemnts in country
+print all elements in country
 UK is the last element
 */
 console.log(add);
