@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>LeoCode27-JS</title>
-<script src="ArrayIndex.js"></script>
+<script src="Removeitem.js"></script>
 </head>
 </html>
 -----------------
